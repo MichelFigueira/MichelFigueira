@@ -38,5 +38,10 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelFigueira&theme=cobalt2&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
 </div>
+<div>
+  <a href="">
+    <img height="165em" src="https://github.com/MichelFigueira/MichelFigueira/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+</div>
 
 <!-- 🌱 I’m currently learning Nx -->
